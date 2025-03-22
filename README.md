@@ -43,7 +43,7 @@ The application consists of three main components:
 
 1. Start the application:
    ```
-   python app.py
+   streamlit run app.py
    ```
 
 2. Open your browser and navigate to:
